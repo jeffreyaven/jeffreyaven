@@ -9,16 +9,6 @@ I am a content creator, full stack architect/designer and technology enthusiast.
 - [`google-discovery-to-openapi`](https://github.com/stackql/google-discovery-to-openapi)
 - and more...
 
-### ⭐Stuff that interests me
-- data!
-- Snowflake, Databricks, BigQuery
-- `deno`, `node`, TypeScript, JavaScript
-- Python, `pandas`, Jupyter
-- JAMStack, React.js, SSGs (Docusuarus, Lume, etc)
-- `docker`, k8s
-- APIs (OpenAPI, GraphQL)
-- `terraform`, `dbt` and more
-
 ### 📝 Some of my blog posts
 - [Introducing GitVer - an alternative versioning scheme](https://fullstackchronicles.io/gitver-an-alternative-versioning-scheme-to-semver-or-calver)
 - [Use Deno Deploy to Serve Non-Traditional Artifacts](https://fullstackchronicles.io/use-deno-deploy-to-serve-non-traditional-artifacts)
@@ -36,6 +26,16 @@ I am a content creator, full stack architect/designer and technology enthusiast.
 - [Data Analytics with Spark Using Python](https://www.amazon.com/Analytics-Spark-Using-Python-Addison-Wesley/dp/013484601X)
 - [Sams Teach Yourself Apache Spark in 24 Hours](https://www.amazon.com/Apache-Spark-Hours-Teach-Yourself-ebook/dp/B01LBA79II/)
 - and more...
+
+### ⭐Stuff that interests me
+- data!
+- Snowflake, Databricks, BigQuery
+- `deno`, `node`, TypeScript, JavaScript
+- Python, `pandas`, Jupyter
+- JAMStack, React.js, SSGs (Docusuarus, Lume, etc)
+- `docker`, k8s
+- APIs (OpenAPI, GraphQL)
+- `terraform`, `dbt` and more
 
 ### 📫 Links
 - 🐦 [Twitter](https://twitter.com/stackql)
