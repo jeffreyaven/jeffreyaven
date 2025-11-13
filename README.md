@@ -5,14 +5,17 @@ I am a content creator, full stack architect/designer and technology enthusiast.
 ### 🚧 Some of the projects I contribute to
 - [🚀 `stackql`](https://github.com/stackql/stackql)
 - [`stackql-provider-registry`](https://github.com/stackql/stackql-provider-registry)
-- [`openapi-doc-util`](https://github.com/stackql/openapi-doc-util)
-- [`google-discovery-to-openapi`](https://github.com/stackql/google-discovery-to-openapi)
+- [`stackql-deploy`](https://github.com/stackql/stackql-deploy)
+- [`sqlpkg` (The (unofficial) SQLite package registry)](https://github.com/nalgeon/sqlpkg)
+- [`docusaurus`](https://github.com/facebook/docusaurus/)
 - and more...
 
 ### 📝 Some of my blog posts
+
 - [Introducing GitVer - an alternative versioning scheme](https://fullstackchronicles.io/gitver-an-alternative-versioning-scheme-to-semver-or-calver)
 - [Use Deno Deploy to Serve Non-Traditional Artifacts](https://fullstackchronicles.io/use-deno-deploy-to-serve-non-traditional-artifacts)
-- [Apache Beam in Five Minutes](https://fullstackchronicles.io/apache-beam-in-five-minutes)
+- [Eliminate Cross-Cloud Data Sharing Costs with Cloudflare R2 and Delta Lake](https://community.databricks.com/t5/technical-blog/eliminate-cross-cloud-data-sharing-costs-with-cloudflare-r2-and/ba-p/137330)
+- [Databricks in Five Minutes](https://fullstackchronicles.io/databricks-in-five-minutes)
 - [Deno in 5 Minutes](https://fullstackchronicles.io/deno-in-five-minutes)
 - [DBT in 5 Minutes](https://fullstackchronicles.io/dbt-in-five-minutes)
 - [AWS IAM vs Google IAM](https://fullstackchronicles.io/aws-iam-vs-google-iam)
@@ -29,7 +32,7 @@ I am a content creator, full stack architect/designer and technology enthusiast.
 
 ### ⭐Stuff that interests me
 - data!
-- Snowflake, Databricks, BigQuery
+- Databricks, Snowflake, BigQuery
 - `deno`, `node`, TypeScript, JavaScript
 - Python, `pandas`, Jupyter
 - JAMStack, React.js, SSGs (Docusuarus, Lume, etc)
